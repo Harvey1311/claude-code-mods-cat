@@ -1,0 +1,5 @@
+.DS_Store
+
+# Files Claude Code generates when it loads the mod (rebuilt on each machine)
+.claude-plugin/types/
+tsconfig.json

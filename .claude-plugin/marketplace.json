@@ -1,0 +1,16 @@
+{
+  "name": "claude-code-mods-cat",
+  "owner": {
+    "name": "Harvey Pham"
+  },
+  "metadata": {
+    "description": "Claude Code mods: two pixel cats above the prompt"
+  },
+  "plugins": [
+    {
+      "name": "prompt-cats",
+      "description": "Two pixel cats (bright golden and brown tabby) above the prompt: sitting while idle, walking in place while Claude works.",
+      "source": "./"
+    }
+  ]
+}
