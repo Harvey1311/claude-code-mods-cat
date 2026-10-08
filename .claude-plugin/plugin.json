@@ -1,6 +1,6 @@
 {
   "name": "prompt-cats",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Two pixel cats (bright golden and brown tabby) above the prompt: sitting while idle, walking in place while Claude works.",
   "author": {
     "name": "Harvey Pham"
